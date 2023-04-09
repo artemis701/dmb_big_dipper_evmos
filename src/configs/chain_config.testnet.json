@@ -1,0 +1,28 @@
+{
+  "title": "DMB Smart ChainBlock Explorer",
+  "network": "ponte_1-8587",
+  "icon": "/images/icon.svg",
+  "logo": {
+    "default": "/images/logo.svg"
+  },
+  "prefix": {
+    "consensus": "dmbvalcons",
+    "validator": "dmbvaloper",
+    "account": "dmb"
+  },
+  "genesis": {
+    "time": "2023-01-13T08:00:00",
+    "height": 1
+  },
+  "primaryTokenUnit": "admb",
+  "votingPowerTokenUnit": "admb",
+  "tokenUnits": {
+    "apnte": {
+      "display": "dmb",
+      "exponent": 18
+    }
+  },
+  "extra": {
+    "profile": false
+  }
+}
